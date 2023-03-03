@@ -34,5 +34,5 @@ var spass=localStorage.getItem('arps');
 var sub=document.querySelector('form');
 
 sub.addEventListener('submit',(e)=>{
-  e.preventDefault();
+ 
 })
